@@ -207,8 +207,15 @@ const HeroSection = () => {
             {/* Right: glassmorphism portrait card */}
             <FadeIn delay={0.75} x={60} y={0} duration={1}>
               <div
-                className="hero-photo-card group relative w-[260px] sm:w-[340px] md:w-[400px] lg:w-[440px] aspect-[4/5] rounded-[28px] sm:rounded-[32px] border border-white/15 bg-white/[0.04] p-2.5 sm:p-3 backdrop-blur-xl"
-                style={{ animation: 'heroCardFloat 6s ease-in-out infinite' }}
+                className="hero-photo-card group relative rounded-[28px] sm:rounded-[32px] border border-white/15 bg-white/[0.04] p-2.5 sm:p-3 backdrop-blur-xl"
+                style={{
+                  aspectRatio: '4 / 5',
+                  height: 'min(58vh, 460px)',
+                  width: 'auto',
+                  maxWidth: '86vw',
+                  animation: 'heroCardFloat 6s ease-in-out infinite',
+                }}
+            
               >
                 <div
                   ref={imgWrapRef}
