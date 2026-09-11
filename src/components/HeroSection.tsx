@@ -5,7 +5,7 @@ import FadeIn from './FadeIn';
 import CinematicParticles from './CinematicParticles';
 import Magnet from './Magnet';
 
-const TYPED_LINE = 'Python Developer · Machine Learning · Full-Stack Engineering';
+const TYPED_LINE = 'Python · Machine Learning Enthusiast· ;
 
 const HeroSection = () => {
   const sectionRef = useRef<HTMLElement>(null);
