@@ -192,7 +192,7 @@ const HeroSection = () => {
                 </Magnet>
                 <Magnet padding={60} strength={4}>
                   <a
-                    href="/Rahini_Selvaraj_Resume.pdf"
+                    href="/Rahins_resume.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-white/5 px-6 py-3 text-xs sm:text-sm font-medium uppercase tracking-widest text-white backdrop-blur-md transition-all duration-200 hover:border-white/60 hover:bg-white/10"
