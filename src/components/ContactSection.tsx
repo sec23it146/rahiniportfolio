@@ -94,7 +94,7 @@ const ContactSection = () => {
         <div className="mx-auto mb-12 sm:mb-16 flex max-w-5xl justify-center">
           <Magnet padding={70} strength={4}>
             <a
-              href="/Rahini_Selvaraj_Resume.pdf"
+              href="/Rahins_resume.pdf"
               download
               className="group inline-flex items-center gap-2.5 rounded-full border border-[#D7E2EA]/25 bg-[#D7E2EA]/[0.04] px-6 py-3 text-xs sm:text-sm font-medium uppercase tracking-widest text-[#D7E2EA] transition-all duration-300 hover:border-[#D7E2EA]/60 hover:bg-[#D7E2EA]/10"
             >
