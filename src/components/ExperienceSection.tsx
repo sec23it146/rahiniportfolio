@@ -16,7 +16,7 @@ const EXPERIENCE: ExperienceItem[] = [
     period: '30 Days · Jul 2025',
     detail:
       'Developed a MERN-based Smart Home Automation Dashboard with secure authentication, role-based access control, device automation, real-time notifications, and responsive dashboards.',
-    stack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT'],
+    stack: ['HTML','CSS','JAVASCRIPT','PYTHON','FLASK','MYSQL'],
   },
   {
     role: 'Machine Learning Intern',
