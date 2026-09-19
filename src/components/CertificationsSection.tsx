@@ -11,14 +11,9 @@ interface Cert {
 const CERTS: Cert[] = [
   { issuer: 'NPTEL', title: 'Introduction to Database Systems', focus: 'Relational databases, SQL, transactions' },
   { issuer: 'NPTEL', title: 'Cloud Computing', focus: 'Cloud service models, virtualization' },
-  { issuer: 'NPTEL', title: 'Programming in Java', focus: 'Core Java, OOP fundamentals' },
-  { issuer: 'Cisco', title: 'CCNA: Introduction to Networks', focus: 'Networking fundamentals, protocols' },
-  { issuer: 'Cisco', title: 'Introduction to Modern AI', focus: 'AI concepts and real-world applications' },
   { issuer: 'Cisco', title: 'Introduction to Data Science', focus: 'Data analysis foundations' },
-  { issuer: 'Cisco', title: 'Python Essentials', focus: 'Python programming fundamentals' },
-  { issuer: 'IBM SkillsBuild', title: 'Build Your First Chatbot', focus: 'Conversational AI basics' },
-  { issuer: 'IBM SkillsBuild', title: 'Generative AI for Software Development', focus: 'GenAI-assisted development workflows' },
-  { issuer: 'Oracle Academy', title: 'AI with Machine Learning in Java', focus: 'ML concepts implemented in Java' },
+  { issuer: 'Cisco', title: 'Python Essentials 1 & 2', focus: 'Python programming fundamentals' },
+ 
 ];
 
 const LOOP = [...CERTS, ...CERTS];
