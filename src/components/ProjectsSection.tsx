@@ -17,21 +17,21 @@ interface ProjectData {
 const PROJECTS: ProjectData[] = [
   {
     number: '01',
-    category: 'AI · Digital Twin',
+    category: 'AI-Smart Waste Water Monitoring System',
     name: 'AquaPure',
     description:
       'An AI-driven wastewater management platform for real-time water quality monitoring, anomaly detection, predictive analysis, treatment optimization, and intelligent decision support using digital-twin simulation.',
-    stack: ['TypeScript', 'PLpgSQL', 'Python', 'Machine Learning', 'HTML', 'CSS'],
+    stack: ['javaScript', 'MySQL', 'Python', 'Machine Learning', 'HTML', 'CSS'],
     gradient: 'linear-gradient(135deg, #0a3d4a 0%, #0c0c0c 60%, #1c5c6e 100%)',
     codeHref: 'https://github.com/sec23it146/Aquapure',
   },
   {
     number: '02',
-    category: 'Full-Stack · MERN',
+    category: 'Smart Home Automation',
     name: 'NexaHome',
     description:
       'A smart home automation dashboard with secure JWT authentication, role-based access control, device management, automation rules, real-time notifications, and activity logs across Admin, Homeowner, and Guest roles.',
-    stack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Socket.IO'],
+    stack: [''javaScript', 'MySQL', 'Python', 'Flask, 'HTML', 'CSS''],
     gradient: 'linear-gradient(135deg, #3d1f0a 0%, #0c0c0c 60%, #6e3c1c 100%)',
     codeHref: 'https://github.com/sec23it146/NEXAHOME',
     liveHref: 'https://nexahome-seven.vercel.app',
