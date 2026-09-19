@@ -31,7 +31,7 @@ const PROJECTS: ProjectData[] = [
     name: 'NexaHome',
     description:
       'A smart home automation dashboard with secure JWT authentication, role-based access control, device management, automation rules, real-time notifications, and activity logs across Admin, Homeowner, and Guest roles.',
-    stack: [''javaScript', 'MySQL', 'Python', 'Flask', 'HTML', 'CSS''],
+    stack: ['javaScript', 'MySQL', 'Python', 'Flask', 'HTML', 'CSS'],
     gradient: 'linear-gradient(135deg, #3d1f0a 0%, #0c0c0c 60%, #6e3c1c 100%)',
     codeHref: 'https://github.com/sec23it146/NEXAHOME',
     liveHref: 'https://nexahome-seven.vercel.app',
