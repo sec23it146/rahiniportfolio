@@ -7,8 +7,7 @@ import AnimatedText from './AnimatedText';
 import LaptopVisual from './LaptopVisual';
 
 const ABOUT_TEXT =
-  "I'm a Python developer and B.Tech Information Technology student at Sri Sairam Engineering College, Chennai. I build full-stack and machine-learning driven products — from MERN dashboards to AI-powered platforms — and I care about turning messy real-world problems into clean, working systems. Let's build something incredible together!";
-
+"An Information Technology student with knowledge in Python, SQL, web development, Cloud Computing, seeking an entry-level opportunity to apply my technical skills to solve real-world problems, and contribute to organizational growth"
 const EDUCATION = [
   {
     school: 'Sri Sairam Engineering College, Chennai',
