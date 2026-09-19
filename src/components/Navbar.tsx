@@ -105,7 +105,7 @@ const Navbar = () => {
 
           <div className="flex items-center gap-2">
             <a
-              href="/Rahini_Selvaraj_Resume.pdf"
+              href="/"C:\Users\HP\Downloads\Rahins_resume.pdf""
               download
               className="hidden sm:inline-flex items-center gap-1.5 rounded-full border border-[#D7E2EA]/25 px-4 py-2 text-[10px] font-medium uppercase tracking-[0.2em] text-[#D7E2EA] transition-all hover:border-[#D7E2EA]/60 hover:bg-[#D7E2EA]/10"
             >
