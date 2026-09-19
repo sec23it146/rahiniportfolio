@@ -27,18 +27,18 @@ const CATEGORIES: SkillCategory[] = [
     title: 'Web Technologies',
     glow: '#5EB8FF',
     items: [
-      { name: 'HTML', level: 90 },
-      { name: 'CSS', level: 85 },
+      { name: 'HTML', level: 72 },
+      { name: 'CSS', level: 70 },
     ],
   },
   {
     title: 'Core Concepts',
     glow: '#5EB8FF',
     items: [
-      { name: 'DSA', level: 75 },
-      { name: 'OOPs', level: 85 },
-      { name: 'DBMS', level: 90 },
-      { name: 'Cloud Computing', level: 70 },
+      { name: 'DSA', level: 50 },
+      { name: 'OOPs', level: 70 },
+      { name: 'DBMS', level: 75 },
+      { name: 'Cloud Computing', level: 80 },
     ],
   },
   {
