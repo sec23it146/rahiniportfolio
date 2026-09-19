@@ -5,7 +5,7 @@ import FadeIn from './FadeIn';
 import CinematicParticles from './CinematicParticles';
 import Magnet from './Magnet';
 
-const TYPED_LINE = 'Python Enthusiast· ;
+const TYPED_LINE = 'Python Enthusiast' ;
 
 const HeroSection = () => {
   const sectionRef = useRef<HTMLElement>(null);
