@@ -17,7 +17,7 @@ const LEVELS: Level[] = [
     icon: Users,
     emoji: '👥',
     title: 'Student Volunteer',
-    detail: 'Jamboree Global Village — educated 100+ scouts on UN SDG 4: Quality Education.',
+    detail: 'Jamboree Global Village — educated 100+ scouts on UN SDG 4- Quality Education.',
     meta: 'Global Village',
     glow: '#2FE39A',
   },
